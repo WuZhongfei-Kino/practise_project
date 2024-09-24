@@ -1,0 +1,30 @@
+[Thread-13] 2024-09-08 10:15:03.933 INFO  o.s.s.c.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler'
+[Thread-13] 2024-09-08 10:15:03.934 INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[Thread-11] 2024-09-08 10:15:03.934 INFO  com.xxl.job.core.server.EmbedServer - >>>>>>>>>>> xxl-job remoting server stop.
+[xxl-job, executor ExecutorRegistryThread] 2024-09-08 10:15:03.939 INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry-remove success, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='default_token', registryValue='http://192.168.128.123:9997/'}, registryResult:ReturnT [code=200, msg=null, content=null]
+[xxl-job, executor ExecutorRegistryThread] 2024-09-08 10:15:03.940 INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job, executor registry thread destory.
+[Thread-13] 2024-09-08 10:15:03.940 INFO  com.xxl.job.core.server.EmbedServer - >>>>>>>>>>> xxl-job remoting server destroy success.
+[xxl-job, executor JobLogFileCleanThread] 2024-09-08 10:15:03.940 INFO  c.x.j.c.t.JobLogFileCleanThread - >>>>>>>>>>> xxl-job, executor JobLogFileCleanThread thread destory.
+[xxl-job, executor TriggerCallbackThread] 2024-09-08 10:15:03.941 INFO  c.x.j.c.t.TriggerCallbackThread - >>>>>>>>>>> xxl-job, executor callback thread destory.
+[Thread-10] 2024-09-08 10:15:03.941 INFO  c.x.j.c.t.TriggerCallbackThread - >>>>>>>>>>> xxl-job, executor retry callback thread destory.
+[main] 2024-09-08 10:15:17.912 INFO  com.wzf.BigEventApplication - Starting BigEventApplication on DESKTOP-14FSICQ with PID 26104 (E:\program_WorkSpace\big-event\target\classes started by DELL in E:\program_WorkSpace\big-event)
+[main] 2024-09-08 10:15:17.914 INFO  com.wzf.BigEventApplication - No active profile set, falling back to default profiles: default
+[main] 2024-09-08 10:15:18.465 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+[main] 2024-09-08 10:15:18.467 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+[main] 2024-09-08 10:15:18.497 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 8ms. Found 0 repository interfaces.
+[main] 2024-09-08 10:15:18.754 INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$4f01784d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[main] 2024-09-08 10:15:19.082 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9998 (http)
+[main] 2024-09-08 10:15:19.094 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9998"]
+[main] 2024-09-08 10:15:19.103 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+[main] 2024-09-08 10:15:19.103 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+[main] 2024-09-08 10:15:19.186 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[main] 2024-09-08 10:15:19.186 INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1134 ms
+[main] 2024-09-08 10:15:19.756 INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[main] 2024-09-08 10:15:20.046 INFO  o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+[main] 2024-09-08 10:15:20.085 INFO  c.x.j.core.executor.XxlJobExecutor - >>>>>>>>>>> xxl-job register jobhandler success, name:xxlJobTask, jobHandler:com.xxl.job.core.handler.impl.MethodJobHandler@6c5ae8fd[class com.wzf.scheduled.XxlJobSchdduled#execute]
+[main] 2024-09-08 10:15:20.138 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9998"]
+[main] 2024-09-08 10:15:20.151 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9998 (http) with context path ''
+[main] 2024-09-08 10:15:20.154 INFO  com.wzf.BigEventApplication - Started BigEventApplication in 2.814 seconds (JVM running for 3.809)
+[Thread-11] 2024-09-08 10:15:20.697 INFO  com.xxl.job.core.server.EmbedServer - >>>>>>>>>>> xxl-job remoting server start success, nettype = class com.xxl.job.core.server.EmbedServer, port = 9997
+[xxl-rpc, EmbedServer bizThreadPool-1216179724] 2024-09-08 10:17:22.137 INFO  c.x.j.core.executor.XxlJobExecutor - >>>>>>>>>>> xxl-job regist JobThread success, jobId:2, handler:com.xxl.job.core.handler.impl.MethodJobHandler@6c5ae8fd[class com.wzf.scheduled.XxlJobSchdduled#execute]
+[Thread-19] 2024-09-08 10:19:05.343 INFO  com.xxl.job.core.thread.JobThread - >>>>>>>>>>> xxl-job JobThread stoped, hashCode:Thread[Thread-19,10,main]
