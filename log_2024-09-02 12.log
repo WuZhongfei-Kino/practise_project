@@ -1,0 +1,242 @@
+[HikariPool-1 housekeeper] 2024-09-02 12:00:12.182 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:00:42.185 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:01:12.188 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:01:42.192 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:02:12.194 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:02:42.197 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:03:12.200 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:03:42.204 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:04:12.206 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:04:42.207 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:05:12.209 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:05:42.213 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:06:12.216 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:06:42.218 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:07:12.222 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:07:42.224 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:08:12.228 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:08:42.229 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:09:12.232 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:09:42.234 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:10:12.237 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:10:42.238 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 connection closer] 2024-09-02 12:10:58.628 DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1e2f4c2a: (connection has passed maxLifetime)
+[HikariPool-1 connection adder] 2024-09-02 12:10:58.652 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6f92383b
+[HikariPool-1 connection closer] 2024-09-02 12:11:02.778 DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@25de35cd: (connection has passed maxLifetime)
+[HikariPool-1 connection adder] 2024-09-02 12:11:02.781 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2eaf3200
+[HikariPool-1 connection closer] 2024-09-02 12:11:04.154 DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@43ef1f49: (connection has passed maxLifetime)
+[HikariPool-1 connection adder] 2024-09-02 12:11:04.157 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1fcbdc91
+[HikariPool-1 housekeeper] 2024-09-02 12:11:12.241 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 connection closer] 2024-09-02 12:11:15.363 DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@71d09684: (connection has passed maxLifetime)
+[HikariPool-1 connection adder] 2024-09-02 12:11:15.366 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1e19ad8
+[HikariPool-1 connection closer] 2024-09-02 12:11:17.732 DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@39a9d8b6: (connection has passed maxLifetime)
+[HikariPool-1 connection adder] 2024-09-02 12:11:17.734 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@40dc90e3
+[HikariPool-1 connection closer] 2024-09-02 12:11:19.196 DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@759e8bf5: (connection has passed maxLifetime)
+[HikariPool-1 connection adder] 2024-09-02 12:11:19.199 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@40cbc46
+[HikariPool-1 connection closer] 2024-09-02 12:11:19.890 DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@50c263f0: (connection has passed maxLifetime)
+[HikariPool-1 connection adder] 2024-09-02 12:11:19.893 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3c8e931a
+[HikariPool-1 connection closer] 2024-09-02 12:11:27.229 DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@20247856: (connection has passed maxLifetime)
+[HikariPool-1 connection adder] 2024-09-02 12:11:27.247 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1e574b0b
+[HikariPool-1 connection closer] 2024-09-02 12:11:32.612 DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@11ff69cb: (connection has passed maxLifetime)
+[HikariPool-1 connection adder] 2024-09-02 12:11:32.622 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7e9f84e8
+[http-nio-8080-exec-2] 2024-09-02 12:11:37.373 DEBUG o.s.web.servlet.DispatcherServlet - GET "/category", parameters={}
+[http-nio-8080-exec-3] 2024-09-02 12:11:37.373 DEBUG o.s.web.servlet.DispatcherServlet - GET "/user/userInfo", parameters={}
+[http-nio-8080-exec-2] 2024-09-02 12:11:37.373 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to public com.wzf.pojo.Result<java.util.List<com.wzf.pojo.Category>> com.wzf.controller.CategoryController.list()
+[http-nio-8080-exec-3] 2024-09-02 12:11:37.373 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to public com.wzf.pojo.Result<com.wzf.pojo.User> com.wzf.controller.UserController.userInfo(java.lang.String)
+[http-nio-8080-exec-2] 2024-09-02 12:11:37.373 DEBUG o.s.d.r.core.RedisConnectionUtils - Opening RedisConnection
+[http-nio-8080-exec-3] 2024-09-02 12:11:37.373 DEBUG o.s.d.r.core.RedisConnectionUtils - Opening RedisConnection
+[http-nio-8080-exec-2] 2024-09-02 12:11:37.373 DEBUG io.lettuce.core.RedisChannelHandler - dispatching command AsyncCommand [type=GET, output=ValueOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+[http-nio-8080-exec-3] 2024-09-02 12:11:37.373 DEBUG io.lettuce.core.RedisChannelHandler - dispatching command AsyncCommand [type=GET, output=ValueOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+[http-nio-8080-exec-2] 2024-09-02 12:11:37.374 DEBUG i.l.core.protocol.DefaultEndpoint - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379, epid=0x1] write() writeAndFlush command AsyncCommand [type=GET, output=ValueOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+[http-nio-8080-exec-3] 2024-09-02 12:11:37.374 DEBUG i.l.core.protocol.DefaultEndpoint - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379, epid=0x1] write() writeAndFlush command AsyncCommand [type=GET, output=ValueOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+[http-nio-8080-exec-3] 2024-09-02 12:11:37.374 DEBUG i.l.core.protocol.DefaultEndpoint - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379, epid=0x1] write() done
+[http-nio-8080-exec-2] 2024-09-02 12:11:37.374 DEBUG i.l.core.protocol.DefaultEndpoint - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379, epid=0x1] write() done
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:37.374 DEBUG i.l.core.protocol.CommandHandler - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379, chid=0x1] write(ctx, AsyncCommand [type=GET, output=ValueOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command], promise)
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:37.375 DEBUG i.l.core.protocol.CommandEncoder - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379] writing command AsyncCommand [type=GET, output=ValueOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:37.375 DEBUG i.l.core.protocol.CommandHandler - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379, chid=0x1] write(ctx, AsyncCommand [type=GET, output=ValueOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command], promise)
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:37.375 DEBUG i.l.core.protocol.CommandEncoder - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379] writing command AsyncCommand [type=GET, output=ValueOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:37.376 DEBUG i.l.core.protocol.CommandHandler - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379, chid=0x1] Received: 10 bytes, 2 commands in the stack
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:37.376 DEBUG i.l.core.protocol.CommandHandler - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379, chid=0x1] Stack contains: 2 commands
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:37.377 DEBUG i.l.core.protocol.RedisStateMachine - Decode AsyncCommand [type=GET, output=ValueOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:37.377 DEBUG i.l.core.protocol.RedisStateMachine - Decoded AsyncCommand [type=GET, output=ValueOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command], empty stack: true
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:37.377 DEBUG i.l.core.protocol.CommandHandler - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379, chid=0x1] Stack contains: 1 commands
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:37.377 DEBUG i.l.core.protocol.RedisStateMachine - Decode AsyncCommand [type=GET, output=ValueOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+[http-nio-8080-exec-3] 2024-09-02 12:11:37.377 DEBUG o.s.d.r.core.RedisConnectionUtils - Closing Redis Connection
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:37.377 DEBUG i.l.core.protocol.RedisStateMachine - Decoded AsyncCommand [type=GET, output=ValueOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command], empty stack: true
+[http-nio-8080-exec-2] 2024-09-02 12:11:37.377 DEBUG o.s.d.r.core.RedisConnectionUtils - Closing Redis Connection
+[http-nio-8080-exec-2] 2024-09-02 12:11:37.377 DEBUG o.s.web.servlet.DispatcherServlet - Completed 401 UNAUTHORIZED
+[http-nio-8080-exec-3] 2024-09-02 12:11:37.377 DEBUG o.s.web.servlet.DispatcherServlet - Completed 401 UNAUTHORIZED
+[HikariPool-1 connection closer] 2024-09-02 12:11:41.414 DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@237d2c04: (connection has passed maxLifetime)
+[HikariPool-1 connection adder] 2024-09-02 12:11:41.418 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@178f15fa
+[HikariPool-1 housekeeper] 2024-09-02 12:11:42.242 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[http-nio-8080-exec-5] 2024-09-02 12:11:45.448 DEBUG o.s.web.servlet.DispatcherServlet - POST "/user/login", parameters={masked}
+[http-nio-8080-exec-5] 2024-09-02 12:11:45.448 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to public com.wzf.pojo.Result<java.lang.String> com.wzf.controller.UserController.login(java.lang.String,java.lang.String)
+[http-nio-8080-exec-5] 2024-09-02 12:11:45.471 DEBUG org.mybatis.spring.SqlSessionUtils - Creating a new SqlSession
+[http-nio-8080-exec-5] 2024-09-02 12:11:45.471 DEBUG org.mybatis.spring.SqlSessionUtils - SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4b6da1ab] was not registered for synchronization because synchronization is not active
+[http-nio-8080-exec-5] 2024-09-02 12:11:45.471 DEBUG o.s.jdbc.datasource.DataSourceUtils - Fetching JDBC Connection from DataSource
+[http-nio-8080-exec-5] 2024-09-02 12:11:45.472 DEBUG o.m.s.t.SpringManagedTransaction - JDBC Connection [HikariProxyConnection@842385447 wrapping com.mysql.cj.jdbc.ConnectionImpl@6f92383b] will not be managed by Spring
+[http-nio-8080-exec-5] 2024-09-02 12:11:45.473 DEBUG c.wzf.mapper.UserMapper.findByName - ==>  Preparing: select * from user where username = ? 
+[http-nio-8080-exec-5] 2024-09-02 12:11:45.473 DEBUG c.wzf.mapper.UserMapper.findByName - ==> Parameters: wangba(String)
+[http-nio-8080-exec-5] 2024-09-02 12:11:45.479 DEBUG c.wzf.mapper.UserMapper.findByName - <==      Total: 1
+[http-nio-8080-exec-5] 2024-09-02 12:11:45.479 DEBUG org.mybatis.spring.SqlSessionUtils - Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4b6da1ab]
+[http-nio-8080-exec-5] 2024-09-02 12:11:45.485 DEBUG o.s.d.r.core.RedisConnectionUtils - Opening RedisConnection
+[http-nio-8080-exec-5] 2024-09-02 12:11:45.487 DEBUG io.lettuce.core.RedisChannelHandler - dispatching command AsyncCommand [type=SETEX, output=StatusOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+[http-nio-8080-exec-5] 2024-09-02 12:11:45.487 DEBUG i.l.core.protocol.DefaultEndpoint - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379, epid=0x1] write() writeAndFlush command AsyncCommand [type=SETEX, output=StatusOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+[http-nio-8080-exec-5] 2024-09-02 12:11:45.487 DEBUG i.l.core.protocol.DefaultEndpoint - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379, epid=0x1] write() done
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:45.487 DEBUG i.l.core.protocol.CommandHandler - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379, chid=0x1] write(ctx, AsyncCommand [type=SETEX, output=StatusOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command], promise)
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:45.489 DEBUG i.l.core.protocol.CommandEncoder - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379] writing command AsyncCommand [type=SETEX, output=StatusOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:45.489 DEBUG i.l.core.protocol.CommandHandler - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379, chid=0x1] Received: 5 bytes, 1 commands in the stack
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:45.489 DEBUG i.l.core.protocol.CommandHandler - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379, chid=0x1] Stack contains: 1 commands
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:45.489 DEBUG i.l.core.protocol.RedisStateMachine - Decode AsyncCommand [type=SETEX, output=StatusOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:45.489 DEBUG i.l.core.protocol.RedisStateMachine - Decoded AsyncCommand [type=SETEX, output=StatusOutput [output=OK, error='null'], commandType=io.lettuce.core.protocol.Command], empty stack: true
+[http-nio-8080-exec-5] 2024-09-02 12:11:45.490 DEBUG o.s.d.r.core.RedisConnectionUtils - Closing Redis Connection
+[http-nio-8080-exec-5] 2024-09-02 12:11:45.499 DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json]
+[http-nio-8080-exec-5] 2024-09-02 12:11:45.499 DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Writing [Result(code=0, message=操作成功, data=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjbGFpbXMiOnsiaWQiOjIsInVzZ (truncated)...]
+[http-nio-8080-exec-5] 2024-09-02 12:11:45.500 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+[http-nio-8080-exec-6] 2024-09-02 12:11:45.592 DEBUG o.s.web.servlet.DispatcherServlet - GET "/user/userInfo", parameters={}
+[http-nio-8080-exec-6] 2024-09-02 12:11:45.592 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to public com.wzf.pojo.Result<com.wzf.pojo.User> com.wzf.controller.UserController.userInfo(java.lang.String)
+[http-nio-8080-exec-6] 2024-09-02 12:11:45.592 DEBUG o.s.d.r.core.RedisConnectionUtils - Opening RedisConnection
+[http-nio-8080-exec-10] 2024-09-02 12:11:45.593 DEBUG o.s.web.servlet.DispatcherServlet - GET "/category", parameters={}
+[http-nio-8080-exec-6] 2024-09-02 12:11:45.593 DEBUG io.lettuce.core.RedisChannelHandler - dispatching command AsyncCommand [type=GET, output=ValueOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+[http-nio-8080-exec-10] 2024-09-02 12:11:45.593 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to public com.wzf.pojo.Result<java.util.List<com.wzf.pojo.Category>> com.wzf.controller.CategoryController.list()
+[http-nio-8080-exec-6] 2024-09-02 12:11:45.593 DEBUG i.l.core.protocol.DefaultEndpoint - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379, epid=0x1] write() writeAndFlush command AsyncCommand [type=GET, output=ValueOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+[http-nio-8080-exec-10] 2024-09-02 12:11:45.593 DEBUG o.s.d.r.core.RedisConnectionUtils - Opening RedisConnection
+[http-nio-8080-exec-10] 2024-09-02 12:11:45.593 DEBUG io.lettuce.core.RedisChannelHandler - dispatching command AsyncCommand [type=GET, output=ValueOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+[http-nio-8080-exec-6] 2024-09-02 12:11:45.593 DEBUG i.l.core.protocol.DefaultEndpoint - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379, epid=0x1] write() done
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:45.593 DEBUG i.l.core.protocol.CommandHandler - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379, chid=0x1] write(ctx, AsyncCommand [type=GET, output=ValueOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command], promise)
+[http-nio-8080-exec-10] 2024-09-02 12:11:45.593 DEBUG i.l.core.protocol.DefaultEndpoint - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379, epid=0x1] write() writeAndFlush command AsyncCommand [type=GET, output=ValueOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+[http-nio-8080-exec-10] 2024-09-02 12:11:45.594 DEBUG i.l.core.protocol.DefaultEndpoint - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379, epid=0x1] write() done
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:45.594 DEBUG i.l.core.protocol.CommandEncoder - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379] writing command AsyncCommand [type=GET, output=ValueOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:45.594 DEBUG i.l.core.protocol.CommandHandler - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379, chid=0x1] write(ctx, AsyncCommand [type=GET, output=ValueOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command], promise)
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:45.594 DEBUG i.l.core.protocol.CommandEncoder - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379] writing command AsyncCommand [type=GET, output=ValueOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:45.594 DEBUG i.l.core.protocol.CommandHandler - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379, chid=0x1] Received: 328 bytes, 2 commands in the stack
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:45.594 DEBUG i.l.core.protocol.CommandHandler - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379, chid=0x1] Stack contains: 2 commands
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:45.594 DEBUG i.l.core.protocol.RedisStateMachine - Decode AsyncCommand [type=GET, output=ValueOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:45.594 DEBUG i.l.core.protocol.RedisStateMachine - Decoded AsyncCommand [type=GET, output=ValueOutput [output=[B@202a0d5a, error='null'], commandType=io.lettuce.core.protocol.Command], empty stack: true
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:45.594 DEBUG i.l.core.protocol.CommandHandler - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379, chid=0x1] Stack contains: 1 commands
+[http-nio-8080-exec-6] 2024-09-02 12:11:45.594 DEBUG o.s.d.r.core.RedisConnectionUtils - Closing Redis Connection
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:45.594 DEBUG i.l.core.protocol.RedisStateMachine - Decode AsyncCommand [type=GET, output=ValueOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:45.594 DEBUG i.l.core.protocol.RedisStateMachine - Decoded AsyncCommand [type=GET, output=ValueOutput [output=[B@396ac38b, error='null'], commandType=io.lettuce.core.protocol.Command], empty stack: true
+[http-nio-8080-exec-10] 2024-09-02 12:11:45.594 DEBUG o.s.d.r.core.RedisConnectionUtils - Closing Redis Connection
+[http-nio-8080-exec-8] 2024-09-02 12:11:45.595 DEBUG o.s.web.servlet.DispatcherServlet - GET "/article?pageNum=1&pageSize=3", parameters={masked}
+[http-nio-8080-exec-8] 2024-09-02 12:11:45.595 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to public com.wzf.pojo.Result<com.wzf.pojo.PageBean<com.wzf.pojo.Article>> com.wzf.controller.ArticleController.list(java.lang.Integer,java.lang.Integer,java.lang.Integer,java.lang.String)
+[http-nio-8080-exec-8] 2024-09-02 12:11:45.595 DEBUG o.s.d.r.core.RedisConnectionUtils - Opening RedisConnection
+[http-nio-8080-exec-8] 2024-09-02 12:11:45.595 DEBUG io.lettuce.core.RedisChannelHandler - dispatching command AsyncCommand [type=GET, output=ValueOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+[http-nio-8080-exec-8] 2024-09-02 12:11:45.595 DEBUG i.l.core.protocol.DefaultEndpoint - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379, epid=0x1] write() writeAndFlush command AsyncCommand [type=GET, output=ValueOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+[http-nio-8080-exec-8] 2024-09-02 12:11:45.595 DEBUG i.l.core.protocol.DefaultEndpoint - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379, epid=0x1] write() done
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:45.595 DEBUG i.l.core.protocol.CommandHandler - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379, chid=0x1] write(ctx, AsyncCommand [type=GET, output=ValueOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command], promise)
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:45.596 DEBUG i.l.core.protocol.CommandEncoder - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379] writing command AsyncCommand [type=GET, output=ValueOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:45.597 DEBUG i.l.core.protocol.CommandHandler - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379, chid=0x1] Received: 164 bytes, 1 commands in the stack
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:45.597 DEBUG i.l.core.protocol.CommandHandler - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379, chid=0x1] Stack contains: 1 commands
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:45.597 DEBUG i.l.core.protocol.RedisStateMachine - Decode AsyncCommand [type=GET, output=ValueOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+[http-nio-8080-exec-10] 2024-09-02 12:11:45.597 DEBUG org.mybatis.spring.SqlSessionUtils - Creating a new SqlSession
+[http-nio-8080-exec-10] 2024-09-02 12:11:45.597 DEBUG org.mybatis.spring.SqlSessionUtils - SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@177e3237] was not registered for synchronization because synchronization is not active
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:45.597 DEBUG i.l.core.protocol.RedisStateMachine - Decoded AsyncCommand [type=GET, output=ValueOutput [output=[B@4ca16cec, error='null'], commandType=io.lettuce.core.protocol.Command], empty stack: true
+[http-nio-8080-exec-8] 2024-09-02 12:11:45.597 DEBUG o.s.d.r.core.RedisConnectionUtils - Closing Redis Connection
+[http-nio-8080-exec-10] 2024-09-02 12:11:45.597 DEBUG o.s.jdbc.datasource.DataSourceUtils - Fetching JDBC Connection from DataSource
+[http-nio-8080-exec-10] 2024-09-02 12:11:45.597 DEBUG o.m.s.t.SpringManagedTransaction - JDBC Connection [HikariProxyConnection@323068928 wrapping com.mysql.cj.jdbc.ConnectionImpl@6f92383b] will not be managed by Spring
+[http-nio-8080-exec-10] 2024-09-02 12:11:45.597 DEBUG com.wzf.mapper.CategoryMapper.list - ==>  Preparing: select * from category where create_user = ? 
+[http-nio-8080-exec-6] 2024-09-02 12:11:45.597 DEBUG org.mybatis.spring.SqlSessionUtils - Creating a new SqlSession
+[http-nio-8080-exec-6] 2024-09-02 12:11:45.597 DEBUG org.mybatis.spring.SqlSessionUtils - SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3d64eb8a] was not registered for synchronization because synchronization is not active
+[http-nio-8080-exec-6] 2024-09-02 12:11:45.597 DEBUG o.s.jdbc.datasource.DataSourceUtils - Fetching JDBC Connection from DataSource
+[http-nio-8080-exec-10] 2024-09-02 12:11:45.598 DEBUG com.wzf.mapper.CategoryMapper.list - ==> Parameters: 2(Integer)
+[http-nio-8080-exec-6] 2024-09-02 12:11:45.598 DEBUG o.m.s.t.SpringManagedTransaction - JDBC Connection [HikariProxyConnection@1073016613 wrapping com.mysql.cj.jdbc.ConnectionImpl@2eaf3200] will not be managed by Spring
+[http-nio-8080-exec-6] 2024-09-02 12:11:45.598 DEBUG c.wzf.mapper.UserMapper.findByName - ==>  Preparing: select * from user where username = ? 
+[http-nio-8080-exec-6] 2024-09-02 12:11:45.598 DEBUG c.wzf.mapper.UserMapper.findByName - ==> Parameters: wangba(String)
+[http-nio-8080-exec-6] 2024-09-02 12:11:45.602 DEBUG c.wzf.mapper.UserMapper.findByName - <==      Total: 1
+[http-nio-8080-exec-6] 2024-09-02 12:11:45.602 DEBUG org.mybatis.spring.SqlSessionUtils - Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3d64eb8a]
+[http-nio-8080-exec-6] 2024-09-02 12:11:45.603 DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json]
+[http-nio-8080-exec-6] 2024-09-02 12:11:45.603 DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Writing [Result(code=0, message=操作成功, data=User(id=2, username=wangba, password=e10adc3949ba59abbe56e057f20f8 (truncated)...]
+[http-nio-8080-exec-10] 2024-09-02 12:11:45.603 DEBUG com.wzf.mapper.CategoryMapper.list - <==      Total: 4
+[http-nio-8080-exec-10] 2024-09-02 12:11:45.604 DEBUG org.mybatis.spring.SqlSessionUtils - Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@177e3237]
+[http-nio-8080-exec-10] 2024-09-02 12:11:45.605 DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json]
+[http-nio-8080-exec-6] 2024-09-02 12:11:45.605 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+[http-nio-8080-exec-10] 2024-09-02 12:11:45.605 DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Writing [Result(code=0, message=操作成功, data=[Category(id=1, categoryName=美食, categoryAlias=meishi, createUser= (truncated)...]
+[http-nio-8080-exec-10] 2024-09-02 12:11:45.606 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+[http-nio-8080-exec-8] 2024-09-02 12:11:45.613 INFO  com.wzf.aspect.RateLimitAspect - 流量控制策略范围内
+[http-nio-8080-exec-8] 2024-09-02 12:11:45.618 DEBUG org.mybatis.spring.SqlSessionUtils - Creating a new SqlSession
+[http-nio-8080-exec-8] 2024-09-02 12:11:45.618 DEBUG org.mybatis.spring.SqlSessionUtils - SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@68c88418] was not registered for synchronization because synchronization is not active
+[http-nio-8080-exec-8] 2024-09-02 12:11:45.660 DEBUG o.s.jdbc.datasource.DataSourceUtils - Fetching JDBC Connection from DataSource
+[http-nio-8080-exec-8] 2024-09-02 12:11:45.660 DEBUG o.m.s.t.SpringManagedTransaction - JDBC Connection [HikariProxyConnection@603669261 wrapping com.mysql.cj.jdbc.ConnectionImpl@6f92383b] will not be managed by Spring
+[http-nio-8080-exec-8] 2024-09-02 12:11:45.660 DEBUG com.wzf.mapper.ArticleMapper.list - ==>  Preparing: select * from article WHERE create_user=? 
+[http-nio-8080-exec-8] 2024-09-02 12:11:45.660 DEBUG com.wzf.mapper.ArticleMapper.list - ==> Parameters: 2(Integer)
+[http-nio-8080-exec-8] 2024-09-02 12:11:45.664 DEBUG com.wzf.mapper.ArticleMapper.list - <==      Total: 4
+[http-nio-8080-exec-8] 2024-09-02 12:11:45.664 DEBUG org.mybatis.spring.SqlSessionUtils - Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@68c88418]
+[http-nio-8080-exec-8] 2024-09-02 12:11:45.666 DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json]
+[http-nio-8080-exec-8] 2024-09-02 12:11:45.666 DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Writing [Result(code=0, message=操作成功, data=PageBean(total=4, items=[Article(id=5, title=巴以冲突何时结束, content=<p> (truncated)...]
+[http-nio-8080-exec-8] 2024-09-02 12:11:45.671 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+[http-nio-8080-exec-9] 2024-09-02 12:11:50.396 DEBUG o.s.web.servlet.DispatcherServlet - GET "/article?pageNum=1&pageSize=3&categoryId=2&state=%E5%B7%B2%E5%8F%91%E5%B8%83", parameters={masked}
+[http-nio-8080-exec-9] 2024-09-02 12:11:50.396 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to public com.wzf.pojo.Result<com.wzf.pojo.PageBean<com.wzf.pojo.Article>> com.wzf.controller.ArticleController.list(java.lang.Integer,java.lang.Integer,java.lang.Integer,java.lang.String)
+[http-nio-8080-exec-9] 2024-09-02 12:11:50.396 DEBUG o.s.d.r.core.RedisConnectionUtils - Opening RedisConnection
+[http-nio-8080-exec-9] 2024-09-02 12:11:50.396 DEBUG io.lettuce.core.RedisChannelHandler - dispatching command AsyncCommand [type=GET, output=ValueOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+[http-nio-8080-exec-9] 2024-09-02 12:11:50.396 DEBUG i.l.core.protocol.DefaultEndpoint - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379, epid=0x1] write() writeAndFlush command AsyncCommand [type=GET, output=ValueOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+[http-nio-8080-exec-9] 2024-09-02 12:11:50.396 DEBUG i.l.core.protocol.DefaultEndpoint - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379, epid=0x1] write() done
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:50.396 DEBUG i.l.core.protocol.CommandHandler - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379, chid=0x1] write(ctx, AsyncCommand [type=GET, output=ValueOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command], promise)
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:50.397 DEBUG i.l.core.protocol.CommandEncoder - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379] writing command AsyncCommand [type=GET, output=ValueOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:50.397 DEBUG i.l.core.protocol.CommandHandler - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379, chid=0x1] Received: 164 bytes, 1 commands in the stack
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:50.397 DEBUG i.l.core.protocol.CommandHandler - [channel=0xf439a377, /127.0.0.1:61047 -> localhost/127.0.0.1:6379, chid=0x1] Stack contains: 1 commands
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:50.397 DEBUG i.l.core.protocol.RedisStateMachine - Decode AsyncCommand [type=GET, output=ValueOutput [output=null, error='null'], commandType=io.lettuce.core.protocol.Command]
+[lettuce-nioEventLoop-4-1] 2024-09-02 12:11:50.397 DEBUG i.l.core.protocol.RedisStateMachine - Decoded AsyncCommand [type=GET, output=ValueOutput [output=[B@7a5054e4, error='null'], commandType=io.lettuce.core.protocol.Command], empty stack: true
+[http-nio-8080-exec-9] 2024-09-02 12:11:50.397 DEBUG o.s.d.r.core.RedisConnectionUtils - Closing Redis Connection
+[http-nio-8080-exec-9] 2024-09-02 12:11:50.399 INFO  com.wzf.aspect.RateLimitAspect - 流量控制策略范围内
+[http-nio-8080-exec-9] 2024-09-02 12:11:50.399 DEBUG org.mybatis.spring.SqlSessionUtils - Creating a new SqlSession
+[http-nio-8080-exec-9] 2024-09-02 12:11:50.399 DEBUG org.mybatis.spring.SqlSessionUtils - SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3a072ff5] was not registered for synchronization because synchronization is not active
+[http-nio-8080-exec-9] 2024-09-02 12:11:50.399 DEBUG o.s.jdbc.datasource.DataSourceUtils - Fetching JDBC Connection from DataSource
+[http-nio-8080-exec-9] 2024-09-02 12:11:50.399 DEBUG o.m.s.t.SpringManagedTransaction - JDBC Connection [HikariProxyConnection@1043901549 wrapping com.mysql.cj.jdbc.ConnectionImpl@6f92383b] will not be managed by Spring
+[http-nio-8080-exec-9] 2024-09-02 12:11:50.399 DEBUG com.wzf.mapper.ArticleMapper.list - ==>  Preparing: select * from article WHERE category_id=? and state=? and create_user=? 
+[http-nio-8080-exec-9] 2024-09-02 12:11:50.399 DEBUG com.wzf.mapper.ArticleMapper.list - ==> Parameters: 2(Integer), 已发布(String), 2(Integer)
+[http-nio-8080-exec-9] 2024-09-02 12:11:50.402 DEBUG com.wzf.mapper.ArticleMapper.list - <==      Total: 1
+[http-nio-8080-exec-9] 2024-09-02 12:11:50.402 DEBUG org.mybatis.spring.SqlSessionUtils - Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@3a072ff5]
+[http-nio-8080-exec-9] 2024-09-02 12:11:50.403 DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json]
+[http-nio-8080-exec-9] 2024-09-02 12:11:50.403 DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Writing [Result(code=0, message=操作成功, data=PageBean(total=1, items=[Article(id=5, title=巴以冲突何时结束, content=<p> (truncated)...]
+[http-nio-8080-exec-9] 2024-09-02 12:11:50.404 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+[HikariPool-1 housekeeper] 2024-09-02 12:12:12.243 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:12:42.244 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:13:12.246 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:13:42.249 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:14:12.250 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:14:42.253 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:15:12.254 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:15:42.258 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:16:12.261 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:16:42.263 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:17:12.266 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:17:42.267 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:18:12.270 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:18:42.272 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:19:12.274 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:19:42.278 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:20:12.280 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:20:42.281 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:21:12.282 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:21:42.285 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:22:12.286 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:22:42.288 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:23:12.291 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:23:42.292 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:24:12.295 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:24:42.296 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:25:12.299 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:25:42.302 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:26:12.305 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:26:42.307 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:27:12.309 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:27:42.310 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:28:12.313 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:28:42.317 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:29:12.319 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:29:42.321 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:30:12.324 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:30:42.327 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:31:12.329 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:31:44.537 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:32:14.540 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:32:44.541 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:33:14.543 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:33:44.547 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:34:14.548 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:34:44.549 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:35:14.550 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:35:44.551 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:36:14.555 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[HikariPool-1 housekeeper] 2024-09-02 12:36:44.557 DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
