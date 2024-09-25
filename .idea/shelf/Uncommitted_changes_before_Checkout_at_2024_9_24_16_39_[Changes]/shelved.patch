@@ -1,0 +1,15 @@
+Index: text_context.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>###版本冲突测试
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/text_context.txt b/text_context.txt
+--- a/text_context.txt	(revision ab7385183f0410a61a2744df1d56b019618a41d5)
++++ b/text_context.txt	(date 1727166943857)
+@@ -1,1 +1,1 @@
+-###版本冲突测试
+\ No newline at end of file
++###版本冲突测试1111
+\ No newline at end of file
