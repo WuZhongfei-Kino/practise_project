@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.wzf.JwtTest
--------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.614 s <<< FAILURE! - in com.wzf.JwtTest
-testParse(com.wzf.JwtTest)  Time elapsed: 0.045 s  <<< ERROR!
-com.auth0.jwt.exceptions.TokenExpiredException: The Token has expired on 2024-08-21T01:22:52Z.
-	at com.wzf.JwtTest.testParse(JwtTest.java:35)
-
