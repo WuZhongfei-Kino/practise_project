@@ -1,0 +1,23 @@
+CREATE TABLE `deposit_repayment_plan` (
+  `id` int unsigned NOT NULL AUTO_INCREMENT COMMENT 'ID',
+	`deposit_repayment_cycle_id` int(11) DEFAULT NULL COMMENT '存还款时期',
+  `deposit` bigint(20) DEFAULT NULL COMMENT '存款',
+	`salary` bigint(20) DEFAULT NULL COMMENT '薪资',
+	`credit_card_debt` bigint(20) DEFAULT NULL COMMENT '信用卡欠款',
+	`other_debt` bigint(20) DEFAULT NULL COMMENT '其他欠款',
+	`repay_credit_card_plan` bigint(20) DEFAULT NULL COMMENT '计划还信用卡',
+	`repay_other_debt_plan` bigint(20) DEFAULT NULL COMMENT '计划还其他欠款',
+	`deposit_plan` bigint(20) DEFAULT NULL COMMENT '计划存款',
+  `status_date` datetime DEFAULT NULL COMMENT '状态时间',
+  `status_cd` varchar(10) COLLATE utf8mb4_bin NOT NULL COMMENT '状态',
+  `balance` bigint(20) NOT NULL DEFAULT '0' COMMENT '操作后余额',
+  `oper_type` varchar(3) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '操作类型|支出或来源',
+  `balance_type_id` int(11) NOT NULL COMMENT '余额类型标识',
+	`create_user` int unsigned NOT NULL COMMENT '创建人ID',
+	`create_time` datetime NOT NULL DEFAULT CURRENT_TIMESTAMP COMMENT '创建时间',
+  `update_time` datetime NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP COMMENT '更新时间',
+  `time_flow` datetime(6) DEFAULT CURRENT_TIMESTAMP(6) COMMENT '时间戳',
+  PRIMARY KEY (`id`),
+  KEY `idx_deposit_repayment_cycle_id` (`deposit_repayment_cycle_id`),
+  KEY `idx_create_user` (`create_user`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_bin COMMENT="存还款计划表";
