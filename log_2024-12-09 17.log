@@ -1,0 +1,77 @@
+[main] 2024-12-09 17:53:48.858 INFO  com.wzf.RedisTest - Starting RedisTest on DESKTOP-14FSICQ with PID 21092 (started by DELL in E:\program_WorkSpace\big-event)
+[main] 2024-12-09 17:53:48.860 INFO  com.wzf.RedisTest - No active profile set, falling back to default profiles: default
+[main] 2024-12-09 17:53:50.208 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+[main] 2024-12-09 17:53:50.214 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+[main] 2024-12-09 17:53:50.269 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 24ms. Found 0 repository interfaces.
+[main] 2024-12-09 17:53:51.007 INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6c87403c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[main] 2024-12-09 17:53:53.128 INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[main] 2024-12-09 17:53:53.936 INFO  o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+[main] 2024-12-09 17:53:54.049 INFO  c.x.j.core.executor.XxlJobExecutor - >>>>>>>>>>> xxl-job register jobhandler success, name:xxlJobTask, jobHandler:com.xxl.job.core.handler.impl.MethodJobHandler@bb6f3f7[class com.wzf.scheduled.XxlJobSchdduled#execute]
+[main] 2024-12-09 17:53:54.162 INFO  com.wzf.RedisTest - Started RedisTest in 6.14 seconds (JVM running for 9.335)
+[main] 2024-12-09 17:53:54.943 INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+[main] 2024-12-09 17:53:54.950 INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+[Thread-6] 2024-12-09 17:54:08.531 INFO  com.xxl.job.core.server.EmbedServer - >>>>>>>>>>> xxl-job remoting server start success, nettype = class com.xxl.job.core.server.EmbedServer, port = 9997
+[xxl-job, executor ExecutorRegistryThread] 2024-12-09 17:54:10.807 ERROR c.x.j.core.util.XxlJobRemotingUtil - Connection refused: connect
+java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:81)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:476)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:218)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:200)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:162)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:394)
+	at java.net.Socket.connect(Socket.java:606)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:175)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:242)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:339)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:357)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1226)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1162)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1056)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:990)
+	at com.xxl.job.core.util.XxlJobRemotingUtil.postBody(XxlJobRemotingUtil.java:95)
+	at com.xxl.job.core.biz.client.AdminBizClient.registry(AdminBizClient.java:42)
+	at com.xxl.job.core.thread.ExecutorRegistryThread$1.run(ExecutorRegistryThread.java:48)
+	at java.lang.Thread.run(Thread.java:748)
+[xxl-job, executor ExecutorRegistryThread] 2024-12-09 17:54:10.807 INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='default_token', registryValue='http://192.168.1.178:9997/'}, registryResult:ReturnT [code=500, msg=xxl-rpc remoting error(Connection refused: connect), for url : http://localhost:8080/xxl-job-admin/api/registry, content=null]
+[main] 2024-12-09 17:54:13.405 INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.wzf.ScheduleTest], using SpringBootContextLoader
+[main] 2024-12-09 17:54:13.406 INFO  o.s.t.c.s.AbstractContextLoader - Could not detect default resource locations for test class [com.wzf.ScheduleTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+[main] 2024-12-09 17:54:13.406 INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.wzf.ScheduleTest]: ScheduleTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+[main] 2024-12-09 17:54:13.408 INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.wzf.BigEventApplication for test class com.wzf.ScheduleTest
+[main] 2024-12-09 17:54:13.410 INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+[main] 2024-12-09 17:54:13.411 INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@70a24f9, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@78bad03b, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@26101efc, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@4e2109fe, org.springframework.test.context.support.DirtiesContextTestExecutionListener@18dac12f, org.springframework.test.context.transaction.TransactionalTestExecutionListener@36cfe107, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@100eeedc, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@56266bda, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@18bb1b88, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@51b51641, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@362a6aa5, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@53b7bf01]
+[Thread-7] 2024-12-09 17:54:23.473 INFO  o.s.s.c.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler'
+[Thread-7] 2024-12-09 17:54:23.474 INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[Thread-6] 2024-12-09 17:54:23.475 INFO  com.xxl.job.core.server.EmbedServer - >>>>>>>>>>> xxl-job remoting server stop.
+[xxl-job, executor ExecutorRegistryThread] 2024-12-09 17:54:25.549 ERROR c.x.j.core.util.XxlJobRemotingUtil - Connection refused: connect
+java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:81)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:476)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:218)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:200)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:162)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:394)
+	at java.net.Socket.connect(Socket.java:606)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:175)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:242)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:339)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:357)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1226)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1162)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1056)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:990)
+	at com.xxl.job.core.util.XxlJobRemotingUtil.postBody(XxlJobRemotingUtil.java:95)
+	at com.xxl.job.core.biz.client.AdminBizClient.registryRemove(AdminBizClient.java:47)
+	at com.xxl.job.core.thread.ExecutorRegistryThread$1.run(ExecutorRegistryThread.java:84)
+	at java.lang.Thread.run(Thread.java:748)
+[xxl-job, executor ExecutorRegistryThread] 2024-12-09 17:54:25.550 INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry-remove fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='default_token', registryValue='http://192.168.1.178:9997/'}, registryResult:ReturnT [code=500, msg=xxl-rpc remoting error(Connection refused: connect), for url : http://localhost:8080/xxl-job-admin/api/registryRemove, content=null]
+[xxl-job, executor ExecutorRegistryThread] 2024-12-09 17:54:25.550 INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job, executor registry thread destory.
+[Thread-7] 2024-12-09 17:54:25.550 INFO  com.xxl.job.core.server.EmbedServer - >>>>>>>>>>> xxl-job remoting server destroy success.
+[xxl-job, executor JobLogFileCleanThread] 2024-12-09 17:54:25.551 INFO  c.x.j.c.t.JobLogFileCleanThread - >>>>>>>>>>> xxl-job, executor JobLogFileCleanThread thread destory.
+[xxl-job, executor TriggerCallbackThread] 2024-12-09 17:54:25.552 INFO  c.x.j.c.t.TriggerCallbackThread - >>>>>>>>>>> xxl-job, executor callback thread destory.
+[Thread-5] 2024-12-09 17:54:25.553 INFO  c.x.j.c.t.TriggerCallbackThread - >>>>>>>>>>> xxl-job, executor retry callback thread destory.

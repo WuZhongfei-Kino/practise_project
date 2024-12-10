@@ -1,0 +1,51 @@
+[http-nio-9998-exec-1] 2024-09-26 16:02:31.563 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[http-nio-9998-exec-1] 2024-09-26 16:02:31.564 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[http-nio-9998-exec-1] 2024-09-26 16:02:31.586 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 21 ms
+[http-nio-9998-exec-1] 2024-09-26 16:02:31.727 INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+[http-nio-9998-exec-1] 2024-09-26 16:02:31.729 INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+[Thread-12] 2024-09-26 16:04:00.396 INFO  o.s.s.c.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler'
+[Thread-12] 2024-09-26 16:04:00.401 INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[main] 2024-09-26 16:04:11.686 INFO  com.wzf.BigEventApplication - Starting BigEventApplication on DESKTOP-14FSICQ with PID 2020 (E:\program_WorkSpace\big-event\target\classes started by DELL in E:\program_WorkSpace\big-event)
+[main] 2024-09-26 16:04:11.693 INFO  com.wzf.BigEventApplication - No active profile set, falling back to default profiles: default
+[main] 2024-09-26 16:04:13.228 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+[main] 2024-09-26 16:04:13.235 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+[main] 2024-09-26 16:04:13.288 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 24ms. Found 0 repository interfaces.
+[main] 2024-09-26 16:04:14.036 INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$606fb005] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[main] 2024-09-26 16:04:14.854 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+[main] 2024-09-26 16:04:14.875 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+[main] 2024-09-26 16:04:14.888 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+[main] 2024-09-26 16:04:14.888 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+[main] 2024-09-26 16:04:15.043 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[main] 2024-09-26 16:04:15.043 INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2912 ms
+[main] 2024-09-26 16:04:16.363 INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[main] 2024-09-26 16:04:17.024 INFO  o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+[main] 2024-09-26 16:04:17.176 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+[main] 2024-09-26 16:04:17.220 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+[main] 2024-09-26 16:04:17.226 INFO  com.wzf.BigEventApplication - Started BigEventApplication in 6.877 seconds (JVM running for 9.674)
+[Thread-14] 2024-09-26 16:04:27.587 INFO  o.s.s.c.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler'
+[Thread-14] 2024-09-26 16:04:27.591 INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[main] 2024-09-26 16:04:34.302 INFO  com.wzf.BigEventApplication - Starting BigEventApplication on DESKTOP-14FSICQ with PID 25868 (E:\program_WorkSpace\big-event\target\classes started by DELL in E:\program_WorkSpace\big-event)
+[main] 2024-09-26 16:04:34.307 INFO  com.wzf.BigEventApplication - No active profile set, falling back to default profiles: default
+[main] 2024-09-26 16:04:35.448 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+[main] 2024-09-26 16:04:35.450 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+[main] 2024-09-26 16:04:35.473 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 11ms. Found 0 repository interfaces.
+[main] 2024-09-26 16:04:35.835 INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$59706a5a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[main] 2024-09-26 16:04:36.351 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9998 (http)
+[main] 2024-09-26 16:04:36.367 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9998"]
+[main] 2024-09-26 16:04:36.380 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+[main] 2024-09-26 16:04:36.380 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+[main] 2024-09-26 16:04:36.536 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[main] 2024-09-26 16:04:36.537 INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1887 ms
+[main] 2024-09-26 16:04:37.765 INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[main] 2024-09-26 16:04:38.189 INFO  o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+[main] 2024-09-26 16:04:38.291 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9998"]
+[main] 2024-09-26 16:04:38.326 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9998 (http) with context path ''
+[main] 2024-09-26 16:04:38.331 INFO  com.wzf.BigEventApplication - Started BigEventApplication in 4.885 seconds (JVM running for 6.937)
+[http-nio-9998-exec-1] 2024-09-26 16:04:53.076 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[http-nio-9998-exec-1] 2024-09-26 16:04:53.076 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[http-nio-9998-exec-1] 2024-09-26 16:04:53.088 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 12 ms
+[http-nio-9998-exec-1] 2024-09-26 16:05:57.579 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[http-nio-9998-exec-1] 2024-09-26 16:05:57.746 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[http-nio-9998-exec-3] 2024-09-26 16:06:01.577 INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+[http-nio-9998-exec-3] 2024-09-26 16:06:01.580 INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+[http-nio-9998-exec-5] 2024-09-26 16:06:04.956 INFO  com.wzf.aspect.RateLimitAspect - 流量控制策略范围内
