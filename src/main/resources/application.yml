@@ -22,7 +22,7 @@ server:
 
 xxlJob:
   accessToken: default_token
-  adminAddress: http://localhost:8080/xxl-job-admin
+  adminAddress: http://localhost:8888/xxl-job-admin
   executor:
     appname: testJob
     ip:
