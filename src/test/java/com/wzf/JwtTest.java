@@ -32,9 +32,9 @@ public class JwtTest {
                ".eyJjbGFpbXMiOnsiaWQiOjIsInVzZXJuYW1lIjoid2FuZ2JhIn0sImV4cCI6MTcyNDIwMzM3Mn0" +
                ".Oxt6VvXaMv9pZpf5PYuafRJ8-CRPgT_fCoTe7MG4hiE";
        JWTVerifier jwtVerifier = JWT.require(Algorithm.HMAC256("itheima")).build();
-       DecodedJWT decodedJWT = jwtVerifier.verify(token);//验证token， 生成一个解析后的JWT对象
-        Map<String, Claim> claims = decodedJWT.getClaims();
-        System.out.println(claims.get("user"));
+//       DecodedJWT decodedJWT = jwtVerifier.verify(token);//验证token， 生成一个解析后的JWT对象
+//        Map<String, Claim> claims = decodedJWT.getClaims();
+//        System.out.println(claims.get("user"));
 
         //如果篡改了头部和载荷部分的数据，那么验证失败
         //如果密钥改了，验证失败
