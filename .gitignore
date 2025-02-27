@@ -42,3 +42,6 @@ build/
 
 ## 忽略xxl-job的日志文件
 /logs/xxlJob
+
+##忽略xxljob日志
+./xxl-job-admin/logs/
